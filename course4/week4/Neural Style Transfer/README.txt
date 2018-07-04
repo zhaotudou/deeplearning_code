@@ -1,0 +1,1 @@
+imagenet-vgg-verydeep-19.mat文件： pretrained-model文件夹下 下载地址：链接: https://pan.baidu.com/s/1d7fJxnLnXbjZ9ZF7-QFiew 密码: ims2
