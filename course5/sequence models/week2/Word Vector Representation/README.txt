@@ -1,0 +1,1 @@
+glove.6B.50d.txt文件： sequence models/week2/Word Vector Representation/data文件夹下文件 下载地址： 链接: https://pan.baidu.com/s/1hfm2uinLV3zMZw5VzOD5Kg 密码: bvnm
